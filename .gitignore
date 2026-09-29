@@ -1,0 +1,32 @@
+# Python environments
+venv/
+.venv/
+**/venv/
+**/.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary/download files
+*.download
+*.tmp
+*.temp
+
+# Build artifacts
+*.egg-info/
+dist/
+build/
+
+# Environment files
+.env
